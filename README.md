@@ -13,6 +13,6 @@ Despairity - 2D Game in Unity
 
 ### Or 
 
-1. Download [Despairity Setup](Despairity\Builds\Windows\Installer\Despairity Setup (x86).exe)
+1. Download [Despairity Setup](Despairity\Builds\Windows\Installer\Despairity_Setup_(x86).exe)
 
 
