@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Traps
+  - Collectables
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Traps
+  - Enemy
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1377608793
+    locked: 0
+  - name: Foreground
+    uniqueID: 1998762379
+    locked: 0
+  - name: Door
+    uniqueID: 736791895
+    locked: 0
+  - name: Player
+    uniqueID: 1155927551
+    locked: 0
+  - name: Traps
+    uniqueID: 1747436547
+    locked: 0
+  - name: Ground
+    uniqueID: 2148356719
+    locked: 0
